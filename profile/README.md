@@ -11,6 +11,13 @@ Once the user create account with plhv-auth. A **unique 6-digit** code will be g
 
 
 
+#
+👩‍💻👩‍💻 For new updates and announcements. Follow our community-pages on
+[Discord](https://discord.gg/cmDQcdvGSc),
+[Twitter](https://twitter.com/plhv_auth),
+[Youtube](https://www.youtube.com/channel/UCdraAiLH9aFAdszVC6gTVbg)
+
+
 
 #
 ✨**Features Coming Soon...**
