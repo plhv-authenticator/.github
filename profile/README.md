@@ -33,6 +33,9 @@ We truly ❤️ pull requests! If you wish to help.
 
 ✅  &nbsp; Add your information on website, please follow [Contribution Guide]
 
+# Lets Discuss:
+✅  &nbsp; [Project Discussion](https://github.com/plhv-authenticator/.github/discussions/1)
+
 
 
 #
